@@ -66,7 +66,7 @@ const Navbar = () => {
         className={
           status
             ? "bg-white z-10 top-0 left-0 fixed w-full h-screen flex sm:hidden flex-col justify-between items-center duration-500 transition-all ease-out"
-            : "bg-white z-10 top-[-750px] left-0 fixed w-full h-screen flex sm:hidden flex-col justify-between items-center duration-500 transition-all ease-in"
+            : "bg-white z-10 top-[-1000px] left-0 fixed w-full h-screen flex sm:hidden flex-col justify-between items-center duration-500 transition-all ease-in"
         }
       >
         <div
